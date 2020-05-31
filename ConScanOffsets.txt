@@ -1,0 +1,2 @@
+Realtime Yaw and Pitch ConScan offsets (deg) to adjust antenna boresight
+-0.066746	-0.236617
